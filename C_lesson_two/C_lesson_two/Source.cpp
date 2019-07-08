@@ -2,7 +2,7 @@
 // Савенко Вадим 
 // 3 - не получилось
 
-
+//
 void dec_to_bin(int n) {
 	if (n >= 2)
 		dec_to_bin(n / 2);
